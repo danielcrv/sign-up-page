@@ -1,6 +1,6 @@
 # Sign Up page
 
-![](https://img.shields.io/github/license/daniel-crv/sign-up-page)
+![](https://img.shields.io/github/license/daniel-crv/sign-up-page.svg)
 
 A beautiful responsive __sign up page__ with HTML5 & SASS.
 
